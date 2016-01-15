@@ -23,4 +23,21 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:id="@+id/textView2"
+        android:layout_above="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="61dp" />
+< android:id android:id="@+id/view3" />="@+id/view2" /><<<<<< Updated upstream
+        android:id="@+id/textView3"
+        android:layout_above="@+id/editText"
+=======
+        android:id="@+id/textView2"
+        android:layout_marginBottom="65dp"
+        android:layout_above="@+id/button"
+>>>>>>> Stashed changes
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
